@@ -1,0 +1,5 @@
+source_well	destination_well	volume
+A1	A1	5
+A1	A2	10
+B1	A3	5
+B1	A4	10
